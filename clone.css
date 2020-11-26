@@ -1,0 +1,352 @@
+.logo{
+    width: 100px;
+    padding-left: 13%;
+    font-size: 25px;
+    font-weight: bolder;
+}
+.small{
+    font-weight: bold;
+    font-size: medium;
+    padding-top:-25px;
+}
+.small1{
+    font-weight: bolder;
+    font-size:15px;
+}
+.small2{
+    font-weight: bolder;
+    font-size:15px;
+}
+
+.boxContainer{
+    margin: auto;
+    margin-top:8%;
+    width: 198px;
+    height: 45px;
+    border: 1px solid #2980b9;
+    padding: 2px 2px ;
+    border-radius: 50px;
+    padding-left: 30px;
+    
+        }
+        .elementsContainer{
+            width: 90%;
+            height: 50%;
+            vertical-align: middle;
+            
+        }
+        .call{
+            border: none;
+            width: 90%;
+            padding: -2px 0px 11px;
+            border-radius: 50px;
+            font-size:15px;
+            font-family:"Nunito";
+            color:#424242;
+            margin:-2px -2px;
+        }
+        .email{
+            border: none;
+            width: 90%;
+            padding: -2px 0px 11px;
+            border-radius: 50px;
+            font-size:15px;
+            font-family:"Nunito";
+            color:#424242;
+            margin:-2px -5px;
+        }
+        nav{
+            flex: 1;
+            text-align: left;
+            width: 100%;
+            height: 70px;
+            
+
+        }
+         nav .boxContainer {
+margin-top: -88px;
+margin-left: 32%;
+border: none;
+        }
+        nav .boxContainer a:hover {
+            background:black;
+                    }
+   nav .boxContainer1 {
+margin-left: 53%;
+margin-top: -50px;
+                    }
+                    nav .boxContainer1 a:hover {
+                        background:black;
+                                }
+                                nav .boxContainer a, .boxContainer1 a{
+                                    color:orangered;
+                                            }
+                                            .btn{
+                                                display: inline-block;
+                                                background: orangered;
+                                                color: #fff;
+                                                float:right;
+                                                padding: 8px 20px;
+                                                margin: -38px 154px;
+                                                text-decoration: none;
+                                                transition: background 0.5s;
+                                                    }
+                                                    .btn:hover{
+                                                        background:black;
+                                                    }
+         
+                                                    .list-items {
+                                                text-align: right;       
+                    width: 71.5%;
+                    height: 70px;
+                    background-color: midnightblue;
+                    margin-left: 13%;
+                    text-decoration: none;
+                    list-style: none;
+                    
+                                                        }
+                                                        
+                                                                    
+                                                        .link{
+                                                        color:white;
+                    text-decoration: none;
+                    letter-spacing: 3px;
+                    font-weight: bold;
+                    font-size: 16px;
+                list-style: none;
+                float: left;
+                    width: 75px;
+                    height: 40px;
+                    line-height: 40px;
+                    text-align: center;
+                    margin-right: 11px;
+                    margin-top: 16px;
+                    position: relative;
+                    left:10px;
+
+                                                        }
+                                                        .link:hover {
+                                                        color:orangered;
+                                                        
+                                                        }
+                                                      
+            
+           
+            .boxContainer2{
+                margin: auto;
+                margin-top:-5.6%;
+                width: 198px;
+                height: 33px;
+                border: 1px solid #2980b9;
+                padding: 2px 2px ;
+                border-radius: 50px;
+                padding-left: 30px;
+                margin-right: 162px;
+                
+                    }
+                    .elementsContainer2{
+                        width: 90%;
+                        height: 50%;
+                        vertical-align: middle;
+                        color: white;
+                    }
+                    .search{
+                        border: none;
+                        width: 90%;
+                        padding: -2px 0px 11px;
+                        border-radius: 50px;
+                        font-size:15px;
+                        font-family:"Nunito";
+                        background-color: midnightblue;
+                        margin:8px -2px ;
+                    }
+                    img{
+                        width: 100%;
+                        
+                    }
+                   span {
+                    position: absolute;
+                    top: 60%;
+                    left: 13%;
+                    color: white;
+                    font-size: 50px;
+                    font-weight: bold;
+                    }
+                    .container2  small{
+                        position: absolute;
+                    top: 81%;
+                    left: 13%;
+                    color: white;
+                    }
+                    .container .btn{
+                        position: relative;
+                            display: inline-block;
+                            background: orangered;
+                            color: #fff;
+                            padding: 8px 20px;
+                            margin: -38px 154px;
+                            text-decoration: none;
+                            transition: background 0.5s;
+                            border-radius: 40px;
+                            height: 25px;
+                            left: -66%;
+                            margin-top: -37%;
+                                }
+                              .container .btn:hover{
+                                    background:orangered;
+                                }
+                   .box1 {
+                    width: 25%;
+                    height: 200px;
+                    margin: -6px;
+                    margin-left: 0.01%;
+                    text-align: center;
+                    background:orangered;
+                        
+                    }
+                    .box2{
+                        width: 25%;
+                        height: 200px;
+                        margin: -5px;
+                        margin-left: 24.01%;
+                        text-align: center;
+                        background:midnightblue ;
+                        margin-top: -16%;
+                    }
+                    .box3{
+                        width: 26%;
+                        height: 200px;
+                        margin: -5px;
+                        margin-left: 49.01%;
+                        text-align: center;
+                        background:orangered ;
+                        margin-top: -16%;
+                    }
+                    .box4{
+                        width: 25%;
+                        height: 200px;
+                        margin: -5px;
+                        margin-left: 75.01%;
+                        text-align: center;
+                        background:midnightblue ;
+                        margin-top: -16%;
+                    }
+                    .container-box img{
+                        margin-left: 55%;
+                        float: left;
+                        width: 35%;
+                        margin-top: -39.2%;
+                    }
+                    .container-box h3{
+                        margin-top: -7%;
+                    }
+                    .container-box{
+                        border-style:  groove;
+                        border-radius: 20px;
+                        height: 345px;
+padding: 100px ;
+margin-top: 100px;
+ }
+ .container-box h4{
+     margin-left: 7%;
+ }
+ .container-box h5{
+    margin-left: 7%;
+    margin-top: 6%;
+    font-size: 16px;
+    font-weight: bolder;
+}
+.container-box h6{
+    margin-left: 7%;
+    margin-top: 6%;
+    font-weight: bolder;
+    font-size: 16px;
+}
+.container-box h1{
+    margin-left: 35%;
+    margin-top: -24.5%;
+    font-weight: bolder;
+    font-size: 16px;
+}
+.container-box h2{
+    margin-left: 35%;
+    margin-top: 5%;
+    font-weight: bold;
+    font-size: 16px;
+}
+.container-box div{
+    margin-left: 35%;
+    margin-top: 6%;
+    font-weight: bolder;
+    font-size: 16px;
+}
+.container-box P{
+    font-weight: lighter;
+    margin-top: 1%;
+}
+.container-box .font{
+    margin-left: 1%;
+    margin-top: -10%;
+    background-color: orangered;
+    width: 50px;
+    height: 40px;
+    padding-left: 12px;
+    padding-top: ;
+    border-radius: 30px;
+}
+.container-box .font1{
+    margin-left: 1%;
+    margin-top: -11%;
+    background-color: orangered;
+    width: 50px;
+    height: 40px;
+    padding-left: 12px;
+    padding-top: ;
+    border-radius: 30px;
+}
+.container-box .font2{
+    margin-left: 1%;
+    margin-top: -12%;
+    background-color: orangered;
+    width: 50px;
+    height: 40px;
+    padding-left: 12px;
+    padding-top: ;
+    border-radius: 30px;
+}
+.container-box .font3{
+    margin-left: 27%;
+    margin-top: -9%;
+    background-color: orangered;
+    width: 50px;
+    height: 40px;
+    padding-left: 12px;
+    padding-top: ;
+    border-radius: 30px;
+}
+.container-box .font4{
+    margin-left: 27%;
+    margin-top: -9%;
+    background-color: orangered;
+    width: 50px;
+    height: 40px;
+    padding-left: 12px;
+    padding-top: ;
+    border-radius: 30px;
+}
+.container-box .font5{
+    margin-left: 27%;
+    margin-top: -9.5%;
+    background-color: orangered;
+    width: 50px;
+    height: 40px;
+    padding-left: 12px;
+    padding-top: ;
+    border-radius: 30px;
+}
+
+
+
+
+ 
+
